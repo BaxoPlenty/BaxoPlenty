@@ -1,4 +1,5 @@
 # `👋` I'm BaxoPlenty
+🏫 › Student  
 ⭐ › Software Developer  
 🌍 › From Germany  
 
