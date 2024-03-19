@@ -1,12 +1,12 @@
 # `👋` I'm BaxoPlenty
 🏫 › Student  
-⭐ › Software Developer  
+⭐ › Full Stack Developer  
 🌍 › From Germany  
 
 ### `😍` Interests
-- obfuscation & security
-- programming
-- games
+* Obfuscation & Security
+* Programming
+* Gaming
 
 ### `💻` Favorite IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -25,9 +25,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+### `📦` Frameworks & Other Stuff
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
 ### `👨‍🎓` Learning Right Now
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-**+ Reverse Engineering**
+* Reverse Engineering
 
 ### `📊` Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baxoplenty&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
