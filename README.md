@@ -1,5 +1,5 @@
 # `👋` I'm BaxoPlenty
-🏫 › Student  
+🏫 › In School  
 ⭐ › Full Stack Developer  
 🌍 › From Germany  
 
