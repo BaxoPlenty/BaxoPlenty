@@ -7,6 +7,7 @@
 * Obfuscation & Security
 * Programming
 * Gaming
+* Reverse Engineering
 
 ### `💻` Favorite IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -32,7 +33,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### `👨‍🎓` Learning Right Now
-* Reverse Engineering
+* Machine Learning
 
 ### `📊` Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baxoplenty&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
