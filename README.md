@@ -30,6 +30,6 @@
 
 <h2 style="letter-spacing: 1px; text-align: center;">Contact</h2>
 
-Discord: `@baxoplenty`
+Discord: `@baxoplenty (398757722268500009)`
 
 </div>
