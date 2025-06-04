@@ -16,7 +16,7 @@
 <h2 style="letter-spacing: 1px; text-align: center;">Technologies I Use</h2>
 
 -   Rust
--   JavaScript
+-   JavaScript / TypeScript
 -   C / C++
 -   LuaU / Lua
 -   HTML & CSS
